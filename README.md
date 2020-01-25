@@ -9,6 +9,10 @@ In this project you will discover how to effectively use the Keras library in yo
 Identifying Flower Types.
 In this project, you will discover how you can use Keras to develop and evaluate neural network models for multi-class classification projects.
 ####Download files from here:
+We have download the dataset for free and placed it in the project directory with the filename sonar.csv. You can also directly download the dataset:
+https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.all-data
+
+
 We have download the iris flowers dataset for free and place it in the project directory with the filename “iris.csv“. You can also directly download the dataset:
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data 
 
