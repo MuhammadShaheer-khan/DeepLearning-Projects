@@ -1,7 +1,17 @@
 # DeepLearning-Projects
+
 ### Project One:
 1- Binary Classification Sonar Project 1 for the Navy:
 In this project you will discover how to effectively use the Keras library in your machine learning project by working through a binary classification project step-by-step.
+
+### Project Two
+2- Multi-Class Classification Iris Flowers Project 2 for Mothers who love Gardening and Flowers: 
+Identifying Flower Types.
+In this project, you will discover how you can use Keras to develop and evaluate neural network models for multi-class classification projects.
+####Download files from here:
+We have download the iris flowers dataset for free and place it in the project directory with the filename “iris.csv“. You can also directly download the dataset:
+http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data 
+
 
 After completing this project, you will know:
 
