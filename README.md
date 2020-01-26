@@ -13,7 +13,7 @@ In this project, you will discover how you can use Keras to develop and evaluate
 3- Regression Housing Pricing Project 3 for Fathers who want to buy a House: 
 Predicting Housing Prices.
 In this project you will discover how to develop and evaluate neural network models using Keras for a regression problem.
-#### Download files from here:
+#### Download CSV files from here:
 
 We have download the dataset for free and placed it in the project directory with the filename sonar.csv. You can also directly download the dataset:
 https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.all-data
